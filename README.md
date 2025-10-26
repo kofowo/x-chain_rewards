@@ -218,7 +218,7 @@ npm run build     # Build frontend for production
 
 ## 📄 License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+MIT License.
 
 ## 🙏 Acknowledgments
 
@@ -228,5 +228,3 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - **Polygon**: Target chain for cross-chain demonstrations
 
 ---
-
-**Built for DoraHacks 2024** | **Educational Demo** | **Not for Production Use**
